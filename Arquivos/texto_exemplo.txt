@@ -1,0 +1,2 @@
+Eu estou estudando python
+Python é insano para ciências de dados

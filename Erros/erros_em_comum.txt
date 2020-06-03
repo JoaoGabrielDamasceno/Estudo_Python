@@ -1,0 +1,15 @@
+"""
+SyntaxError -> Erro de sintaxe, alguma escrita que o Python não reconheceu
+
+NameError -> Quando uma variável ou função não foi definida
+
+TypeError -> Quando ação/operação/função é aplicada errada
+
+IndexError -> Tentando acessar um elemento em uma lista ou iteravel através de um indice inválido
+
+ValueError -> Quando uma função recebemo um valor inapropriado
+
+KeyError -> Quando tentamos adicionar uma key em um dicionario invalido
+
+AtributeError ->  Quando se usa uma função/ação em uma variável que não tem ela, exemplo sort() sem ser em lista
+"""
